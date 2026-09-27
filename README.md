@@ -4,7 +4,7 @@ An end-to-end Machine Learning project that predicts loan repayment status, esti
 
 ## 🚀 Live Demo
 
-[Try the Live Streamlit App](YOUR_STREAMLIT_APP_URL)
+https://smart-loan-repayment.streamlit.app/
 
 ## 📌 Project Overview
 
